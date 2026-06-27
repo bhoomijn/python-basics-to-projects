@@ -87,3 +87,17 @@ fahrenheit = celsius_to_fahrenheit(celsius)
 print(f"{celsius}°C is equal to {fahrenheit}°F")
 print(f"{celsius}°C is equal to {fahrenheit}°F")
 
+# This is a practice test for Python programming. The following code snippets will help you understand basic concepts and syntax in Python.
+
+# question 3:
+
+a = 10
+b = 20
+c = 30
+d = 40
+
+print(a , end = " ")
+print(b , end = " ")
+print(c , end = " ")
+print(d)
+
