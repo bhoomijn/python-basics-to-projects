@@ -112,3 +112,12 @@ n = int(input("Enter a number: "))
 sum = ( n * (n + 1)) // 2
 print("The sum of the first", n, "natural numbers is:", sum)
 
+# question 4 in another way :
+
+def calculate_sum():
+    n = int(input("Enter a number: "))
+    sum = (n * (n + 1)) // 2
+    print("The sum of the first", n, "natural numbers is:", sum)
+
+calculate_sum()
+calculate_sum()
