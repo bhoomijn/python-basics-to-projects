@@ -70,3 +70,20 @@ c=input("Enter a third number: ")
 largest = max(a, b, c)
 print("The largest number is:", largest)
 
+# question 2:
+
+celsius = float(input("Enter temperature in Celsius: "))
+fahrenheit = (celsius * 9/5) + 32
+print(f"{celsius}°C is equal to {fahrenheit}°F")
+
+# question 2 in another way:
+
+def celsius_to_fahrenheit(celsius):
+    return (celsius * 9/5) + 32
+
+celsius = float(input("Enter temperature in Celsius: "))
+fahrenheit = celsius_to_fahrenheit(celsius)
+
+print(f"{celsius}°C is equal to {fahrenheit}°F")
+print(f"{celsius}°C is equal to {fahrenheit}°F")
+
