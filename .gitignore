@@ -66,3 +66,6 @@ venv.bak/
 *.log
 temp/
 tmp/
+
+# Hide only python practice.py file
+python practice.py
