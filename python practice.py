@@ -178,3 +178,11 @@ print(f"Multiplication table of {n}:")
 for i in range(1, 11):
     print(f"{n} x {i} = {table[i-1]}")
 
+#question 8 in another way
+
+def multiplying_numbers(n):
+    for i in range(1, 11):
+        print(f"{n} * {i} = {n * i}")
+
+n = int(input("Enter a number to multiply: "))
+multiplying_numbers(n)
