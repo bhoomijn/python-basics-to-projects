@@ -157,3 +157,13 @@ L = [1, 2, 3, 4, 5]
 
 L.remove(3)
 print(L)  # Output: [1, 2, 4, 5]
+
+# question 7 in another way
+
+l = ["apple", "banana", "cherry"]
+
+def remove_item(item):
+    l.remove(item)
+    return l
+item = input("Enter an item to remove from the list: ")
+print(remove_item(item))  
