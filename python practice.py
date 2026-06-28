@@ -168,3 +168,13 @@ def remove_item(item):
 item = input("Enter an item to remove from the list: ")
 print(remove_item(item))  
 
+#question 8
+
+n = int(input("Enter a number: "))
+i = 1
+
+table = [n * i for i in range(1, 11)]
+print(f"Multiplication table of {n}:")
+for i in range(1, 11):
+    print(f"{n} x {i} = {table[i-1]}")
+
