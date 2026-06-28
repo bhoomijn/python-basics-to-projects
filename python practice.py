@@ -133,4 +133,22 @@ def pattern(n):
 pattern(9)
 pattern(100)
 
+# question 6:
+
+def inches_to_centimeters(inches):
+
+    """
+    Convert inches to centimeters.
+    
+    Parameters:
+    inches (float): The length in inches to be converted.
+    
+    Returns:
+    float: The length in centimeters.
+    """
+    centimeters = inches * 2.54
+    return centimeters
+print(inches_to_centimeters(7))  # This will print the result of converting 7 inches to centimeters 
+print(inches_to_centimeters(5))  # This will print the result of converting 5 inches to centimeters
+
 
