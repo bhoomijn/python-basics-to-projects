@@ -167,3 +167,4 @@ def remove_item(item):
     return l
 item = input("Enter an item to remove from the list: ")
 print(remove_item(item))  
+
