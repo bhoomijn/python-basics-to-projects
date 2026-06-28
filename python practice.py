@@ -151,4 +151,9 @@ def inches_to_centimeters(inches):
 print(inches_to_centimeters(7))  # This will print the result of converting 7 inches to centimeters 
 print(inches_to_centimeters(5))  # This will print the result of converting 5 inches to centimeters
 
+# question 7:
 
+L = [1, 2, 3, 4, 5]
+
+L.remove(3)
+print(L)  # Output: [1, 2, 4, 5]
