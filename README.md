@@ -34,8 +34,10 @@ Mini projects to apply concepts:
 
 ## ▶️ How to Run
 Clone the repo and run any file:
-``bash
+```bash
 git clone https://github.com/bhoomijn/python-basics-to-projects.git
+
+---
 
 
 ✨ Features
@@ -47,11 +49,14 @@ Mini projects to apply concepts
 
 Regular updates tracked in CHANGELOG
 
+---
+
 
 🤝 Contributions
 Contributions, suggestions, and feedback are welcome!
 Feel free to fork this repo and submit pull requests.
 
+---
 
 📜 License
 This project is licensed under the MIT License.
