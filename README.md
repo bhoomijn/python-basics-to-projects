@@ -1,18 +1,11 @@
 # Python Basics to Projects 🚀
 
-This repository documents my complete Python learning journey — from basics to mini projects — before starting M.Tech AIML at VIT.  
-It includes daily practice codes, exercises, and projects that showcase my progress in programming and problem-solving.
+This repository documents my Python learning journey with daily practice codes and mini projects.  
+It includes exercises, projects, and documentation to showcase progress in programming and problem-solving.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/bhoomijn/python-basics-to-projects)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-
----
-
-## 📖 About Me
-- Incoming **M.Tech AIML student at VIT**  
-- Passionate about **Python, AI/ML, DSA, and Open Source**   
-- Actively learning Git/GitHub, VS Code, and building projects  
 
 ---
 
@@ -44,15 +37,8 @@ Clone the repo and run any file:
 ``bash
 git clone https://github.com/bhoomijn/python-basics-to-projects.git
 
-## 📸 Example Output
 
-Welcome to Snake-Water-Gun Game!
-You chose: Snake
-Computer chose: Water
-Result: You Win 🎉
-
-
-### ✨ Features
+✨ Features
 Beginner‑friendly Python codes
 
 Step‑by‑step exercises with clear topics
@@ -62,17 +48,13 @@ Mini projects to apply concepts
 Regular updates tracked in CHANGELOG
 
 
-### 🤝 Contributions
+🤝 Contributions
 Contributions, suggestions, and feedback are welcome!
 Feel free to fork this repo and submit pull requests.
 
 
-## 📜 License
+📜 License
 This project is licensed under the MIT License.
-
-
-
-
 
 cd python-basics-to-projects
 python filename.py
