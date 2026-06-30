@@ -33,11 +33,22 @@ Mini projects to apply concepts:
 ---
 
 ## ▶️ How to Run
-Clone the repo and run any file:
-``bash
+Clone the repo from [GitHub](https://github.com/bhoomijn/python-basics-to-projects) and run any file:
+
+```bash
 git clone https://github.com/bhoomijn/python-basics-to-projects.git
+cd python-basics-to-projects
+python filename.py
+
 
 ---
+
+## 🌟 Highlights
+- Covers Python basics (functions, loops, conditionals)  
+- Includes beginner‑friendly mini projects  
+- Regularly updated with new practice files
+
+ --- 
 
 
 ## ✨ Features
