@@ -52,7 +52,7 @@ Computer chose: Water
 Result: You Win 🎉
 
 
-## ✨ Features
+### ✨ Features
 Beginner‑friendly Python codes
 
 Step‑by‑step exercises with clear topics
@@ -62,7 +62,7 @@ Mini projects to apply concepts
 Regular updates tracked in CHANGELOG
 
 
-## 🤝 Contributions
+### 🤝 Contributions
 Contributions, suggestions, and feedback are welcome!
 Feel free to fork this repo and submit pull requests.
 
