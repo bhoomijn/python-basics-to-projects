@@ -1,6 +1,6 @@
 # Python Basics to Projects 🚀
 
-This repository documents my complete Python learning journey — from basics to mini projects — before starting M.Tech AIML at VIT Bhopal.  
+This repository documents my complete Python learning journey — from basics to mini projects — before starting M.Tech AIML at VIT.  
 It includes daily practice codes, exercises, and projects that showcase my progress in programming and problem-solving.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
@@ -10,9 +10,8 @@ It includes daily practice codes, exercises, and projects that showcase my progr
 ---
 
 ## 📖 About Me
-- Incoming **M.Tech AIML student at VIT Bhopal**  
-- Passionate about **Python, AI/ML, DSA, and Open Source**  
-- Goal: Achieve **60 LPA campus placement package**  
+- Incoming **M.Tech AIML student at VIT**  
+- Passionate about **Python, AI/ML, DSA, and Open Source**   
 - Actively learning Git/GitHub, VS Code, and building projects  
 
 ---
@@ -42,7 +41,7 @@ Mini projects to apply concepts:
 
 ## ▶️ How to Run
 Clone the repo and run any file:
-```bash
+``bash
 git clone https://github.com/bhoomijn/python-basics-to-projects.git
 
 📸 Example Output
