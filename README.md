@@ -35,7 +35,7 @@ Mini projects to apply concepts:
 ## ▶️ How to Run
 Clone the repo from [GitHub](https://github.com/bhoomijn/python-basics-to-projects) and run any file:
 
-```bash
+``bash
 git clone https://github.com/bhoomijn/python-basics-to-projects.git
 cd python-basics-to-projects
 python filename.py
