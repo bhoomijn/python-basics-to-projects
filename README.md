@@ -40,7 +40,7 @@ git clone https://github.com/bhoomijn/python-basics-to-projects.git
 ---
 
 
-✨ Features
+## ✨ Features
 Beginner‑friendly Python codes
 
 Step‑by‑step exercises with clear topics
@@ -52,14 +52,11 @@ Regular updates tracked in CHANGELOG
 ---
 
 
-🤝 Contributions
+## 🤝 Contributions
 Contributions, suggestions, and feedback are welcome!
 Feel free to fork this repo and submit pull requests.
 
 ---
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
-
-cd python-basics-to-projects
-python filename.py
