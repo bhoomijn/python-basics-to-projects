@@ -54,7 +54,7 @@ ENV/
 env.bak/
 venv.bak/
 
-# IDEs
+# IDE
 .vscode/
 .idea/
 *.swp
@@ -63,9 +63,5 @@ venv.bak/
 .DS_Store
 
 # Project specific
+*.txt
 *.log
-temp/
-tmp/
-
-# Hide only python practice.py file
-python practice.py

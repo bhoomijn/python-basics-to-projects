@@ -1,25 +1,31 @@
 # Changelog
+
 All notable changes to this project will be documented in this file.
 
-The format is based on Keep a Changelog
-and this project adheres to Semantic Versioning.
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0]
+## [Unreleased]
+
 ### Added
-- Initial project structure with modules:
-  - functions.py
-  - recursion.py
-  - basic_problems.py
-- Interactive menu in main.py
-- Docstrings and documentation
-- README setup instructions
-- .gitignore for Python
-- Unit tests with pytest
-- GitHub Actions CI/CD pipeline
-- Contribution templates (issues, PRs, CONTRIBUTING.md)
+- File handling practice questions
+- Professional code examples with docstrings
+- Error handling best practices
+- Professional README documentation
+
+### Changed
+- Updated documentation structure
+- Enhanced code organization
 
 ### Fixed
-- String comparison bug in largest number finder
-- Removed duplicate function definitions
-- Fixed variable shadowing issues
-- Cleaned redundant code and print statements
+- Code formatting and documentation improvements
+
+---
+
+## [1.0.0] - 2026-07-01
+
+### Added
+- Project initialization
+- Basic project structure
+- MIT License
+- Professional code standards
