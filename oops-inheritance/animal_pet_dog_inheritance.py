@@ -32,3 +32,35 @@ print(f"Breed: {dog1.breed}")
 
 # Calling method
 dog1.bark()   # Output: Woof! Woof!
+
+
+# animal_pet_dog_inheritance.py
+# Demonstrates multilevel inheritance with multiple methods
+
+class Animals:
+    pass
+
+
+class Pets(Animals):
+    pass
+
+
+class Dog(Pets):
+    @staticmethod
+    def bark():
+        print("The dog is making noise like bhow bhoww")
+
+    # Instance method
+    def play(self):
+        print("The dog is playing happily!")
+
+
+# Object creation
+d = Dog()
+
+# Calling static method
+d.bark()   # Output: The dog is making noise like bhow bhoww
+
+# Calling instance method
+d.play()   # Output: The dog is playing happily!
+
